@@ -72,6 +72,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burakcalisknn&show_icons=true&count_private=true&hide_border=false&theme=radical" align="center" />
 </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakcalisknn&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
 
 
 <br/>  
