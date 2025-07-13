@@ -1,3 +1,7 @@
+<br/>  
+
+<div align="center"></div>
+<br />
 ### <div align="center">I'm Burak, a software developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
