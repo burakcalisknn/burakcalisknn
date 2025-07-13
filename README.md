@@ -83,11 +83,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=burakcalisknn&&style=flat-square" align="center" />
