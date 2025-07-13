@@ -12,13 +12,13 @@
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" />
-</a>  
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" />
+</a><br>
 <a href="https://www.cplusplus.com/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" />
-</a>  
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" />
+</a><br>
 <a href="https://www.java.com/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" />
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" />
 </a>  
 </div>
 
@@ -26,19 +26,19 @@
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" />
-</a>  
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" />
+</a><br>
 <a href="https://www.w3schools.com/css/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" />
-</a>  
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" />
+</a><br>
 <a href="https://www.javascript.com/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" />
-</a>  
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" />
+</a><br>
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" />
-</a>  
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" />
+</a><br>
 <a href="https://nodejs.org/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" />
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" />
 </a>  
 </div>
 
@@ -46,14 +46,15 @@
 
 <div align="center">  
 <a href="https://www.postgresql.org/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" />
-</a>  
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" />
+</a><br>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img style="margin: 10px; height: 75px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" />
+  <img style="margin: 10px; height: 60px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" />
 </a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr></table>  
+
 
 <div align="center">  
 <a href="https://www.postgresql.org/" target="_blank">
