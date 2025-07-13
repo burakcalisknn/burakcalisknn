@@ -70,7 +70,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakcalisknn&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=burakcalisknn&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
 </div>
 
 
