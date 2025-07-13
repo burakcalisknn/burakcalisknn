@@ -72,15 +72,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burakcalisknn&show_icons=true&count_private=true&hide_border=false&theme=radical" align="center" />
 </div>
-<!-- GitHub Trophy -->
+<!-- GitHub Streak -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakcalisknn&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div><!-- GitHub Trophy --> 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=burakcalisknn&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophy" />
 </div>
 
-<!-- GitHub Streak -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakcalisknn&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
+
 
 
 <br/>  
