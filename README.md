@@ -77,7 +77,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakcalisknn&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 <!-- Trophy Başlığı -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="left">🏆 GitHub Trophies</h2>
 
 <!-- GitHub Trophy -->
 <div align="center" style="margin-bottom: 30px;">
